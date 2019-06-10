@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toqpka.Word", "toqpka.Word\toqpka.Word.csproj", "{426EA3D1-E4BC-4A38-B759-4E934C1C0EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editor.BL", "Editor.BL\Editor.BL.csproj", "{0AD99314-7858-4101-9378-5E29D6E53E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426EA3D1-E4BC-4A38-B759-4E934C1C0EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426EA3D1-E4BC-4A38-B759-4E934C1C0EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426EA3D1-E4BC-4A38-B759-4E934C1C0EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426EA3D1-E4BC-4A38-B759-4E934C1C0EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD99314-7858-4101-9378-5E29D6E53E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD99314-7858-4101-9378-5E29D6E53E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD99314-7858-4101-9378-5E29D6E53E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD99314-7858-4101-9378-5E29D6E53E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC27570-8882-4027-BE45-7092A7ED99DA}
+	EndGlobalSection
+EndGlobal
